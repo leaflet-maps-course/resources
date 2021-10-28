@@ -1,6 +1,10 @@
 {
   "title": "Donostia / San Sebastian - Turismo Euskadi",
   "description": "Sitios indispensables a visitar en la ciudad",
+  "location": {
+      "lat": 43.32,
+      "lng": -1.98
+  },
   "points": [
     {
       "lat": 43.308321,
