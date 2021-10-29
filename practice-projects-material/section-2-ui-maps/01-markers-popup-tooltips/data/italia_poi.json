@@ -1,0 +1,118 @@
+{
+    "title": "Lugares de Italia que no debes de olvidar visitar",
+    "description": "Recopilatorio de lugares interesantes para todas las personas que hacen turismo en Italia",
+    "location": {
+        "lat": 42.745725, 
+        "lng": 12.645894
+    },
+    "url": "https://blog.musement.com/es/los-15-lugares-mas-emblematicos-de-italia/",
+    "points": [
+      {
+        "lat": 46, 
+        "lng": 9.266667,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/lago-como.jpeg",
+        "name": "Lago Como",
+        "description": "El tercer lago más grande de Italia es, indudablemente, el más emblemático. Localizado en la región de Lombardía, está rodeado de poblaciones de las que quizás no hayas oído hablar nunca, como Bellagio, Tremezzo o Varenna, pero en cuanto las pises, sentirás amor a primera vista.",
+        "info": "https://es.wikipedia.org/wiki/Lago_de_Como"
+      },
+      {
+        "lat": 43.3245953,
+        "lng": -1.9779,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/kursaal.jpg",
+        "name": "Duomo de Milán",
+        "info": "https://www.kursaal.eus/es/"
+      },
+      {
+        "lat": 43.3215846,
+        "lng": -2.0076038,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/peine-de-los-vientos.jpg",
+        "name": "Santa Maria delle Grazie de Milán",
+        "info": "https://www.sansebastianturismoa.eus/es/hacer/que-ver-san-sebastian/el-peine-del-viento"
+      },
+      {
+        "lat": 43.3163723,
+        "lng": -1.9882743,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/laconcha.jpg",
+        "name": "Arena de Verona",
+        "info": "https://es.wikipedia.org/wiki/Playa_de_La_Concha_(San_Sebasti%C3%A1n)"
+      },
+      {
+        "lat": 43.323549,
+        "lng": -1.988111,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/puerto.jpg",
+        "name": "Basílica de San Marcos de Venecia",
+        "info": ""
+      },
+      {
+        "lat": 43.308321,
+        "lng": -1.977503,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/amara-deusto.jpg",
+        "name": "Gran Canal de Venecia",
+        "info": ""
+      },
+      {
+        "lat": 43.3245953,
+        "lng": -1.9779,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/kursaal.jpg",
+        "name": "Cinque Terre",
+        "info": "https://www.kursaal.eus/es/"
+      },
+      {
+        "lat": 43.3215846,
+        "lng": -2.0076038,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/peine-de-los-vientos.jpg",
+        "name": "Duomo de Florencia",
+        "info": "https://www.sansebastianturismoa.eus/es/hacer/que-ver-san-sebastian/el-peine-del-viento"
+      },
+      {
+        "lat": 43.3163723,
+        "lng": -1.9882743,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/laconcha.jpg",
+        "name": "Torre de Pisa",
+        "info": "https://es.wikipedia.org/wiki/Playa_de_La_Concha_(San_Sebasti%C3%A1n)"
+      },
+      {
+        "lat": 43.323549,
+        "lng": -1.988111,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/puerto.jpg",
+        "name": "Torres de San Gimignano",
+        "info": ""
+      },
+      {
+        "lat": 43.308321,
+        "lng": -1.977503,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/amara-deusto.jpg",
+        "name": "Coliseo de Roma",
+        "info": ""
+      },
+      {
+        "lat": 43.3245953,
+        "lng": -1.9779,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/kursaal.jpg",
+        "name": "Museos Vaticanos",
+        "info": "https://www.kursaal.eus/es/"
+      },
+      {
+        "lat": 43.3215846,
+        "lng": -2.0076038,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/peine-de-los-vientos.jpg",
+        "name": "Pompeya",
+        "info": "https://www.sansebastianturismoa.eus/es/hacer/que-ver-san-sebastian/el-peine-del-viento"
+      },
+      {
+        "lat": 43.3163723,
+        "lng": -1.9882743,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/laconcha.jpg",
+        "name": "Capri",
+        "info": "https://es.wikipedia.org/wiki/Playa_de_La_Concha_(San_Sebasti%C3%A1n)"
+      },
+      {
+        "lat": 43.323549,
+        "lng": -1.988111,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/puerto.jpg",
+        "name": "Volcán Etna",
+        "info": ""
+      }
+    ]
+  }
+  
