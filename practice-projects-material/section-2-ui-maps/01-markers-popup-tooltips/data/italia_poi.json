@@ -13,105 +13,133 @@
         "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/lago-como.jpeg",
         "name": "Lago Como",
         "description": "El tercer lago más grande de Italia es, indudablemente, el más emblemático. Localizado en la región de Lombardía, está rodeado de poblaciones de las que quizás no hayas oído hablar nunca, como Bellagio, Tremezzo o Varenna, pero en cuanto las pises, sentirás amor a primera vista.",
-        "info": "https://es.wikipedia.org/wiki/Lago_de_Como"
+        "info": "https://es.wikipedia.org/wiki/Lago_de_Como",
+        "atribution": ""
       },
       {
-        "lat": 43.3245953,
-        "lng": -1.9779,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/kursaal.jpg",
+        "lat": 45.464167,
+        "lng": 9.191389,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/duomo_milan.jpeg",
         "name": "Duomo de Milán",
-        "info": "https://www.kursaal.eus/es/"
+        "description": "La catedral de Milán (en italiano, Duomo di Milano) es una catedral gótica emplazada en la ciudad homónima. Es la sede episcopal de la Archidiócesis de Milán. Es una de las iglesias de culto católico más grandes del mundo (tiene 157 metros de largo y puede albergar más de 300 personas en su interior) y las ventanas del coro tienen la reputación de ser las mayores que se conocen.",
+        "info": "https://es.wikipedia.org/wiki/Catedral_de_Mil%C3%A1n",
+        "atribution": "Foto: dungodung on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
       },
       {
-        "lat": 43.3215846,
-        "lng": -2.0076038,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/peine-de-los-vientos.jpg",
+        "lat": 45.465833,
+        "lng": 9.171111,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/santa_maria_grazie_milan.jpeg",
         "name": "Santa Maria delle Grazie de Milán",
-        "info": "https://www.sansebastianturismoa.eus/es/hacer/que-ver-san-sebastian/el-peine-del-viento"
+        "description": "Santa Maria delle Grazie (Santa María de las Gracias) es una iglesia y convento de la Orden de Predicadores en Milán, Italia. El refectorio del convento está decorado con la célebre pintura mural La última cena, obra maestra de Leonardo da Vinci.",
+        "info": "https://es.wikipedia.org/wiki/Santa_Maria_delle_Grazie",
+        "atribution": "Foto: Dimitris Graffin on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
       },
       {
-        "lat": 43.3163723,
-        "lng": -1.9882743,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/laconcha.jpg",
+        "lat": 45.438889,
+        "lng": 10.994444,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/arena_de_verona.jpeg",
         "name": "Arena de Verona",
-        "info": "https://es.wikipedia.org/wiki/Playa_de_La_Concha_(San_Sebasti%C3%A1n)"
+        "description": "La Arena de Verona es un anfiteatro romano ubicado en la ciudad de Verona, Italia, conocido por las producciones de ópera que se realizan en él (Festival de Verona). Es una de las estructuras de su estilo mejor conservadas.",
+        "info": "https://es.wikipedia.org/wiki/Arena_de_Verona",
+        "atribution": "Foto: Dimitris Graffin on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
       },
       {
-        "lat": 43.323549,
-        "lng": -1.988111,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/puerto.jpg",
+        "lat": 45.434444,
+        "lng": 12.339722,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/basilica_san_marcos_venecia.jpeg",
         "name": "Basílica de San Marcos de Venecia",
-        "info": ""
+        "description": "La basílica de San Marcos es el principal templo católico de la ciudad de Venecia (Italia) y la obra maestra de la arquitectura bizantina en el Véneto. Posee el rango de catedral y también el de iglesia patriarcal, además del de basílica.",
+        "info": "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_San_Marcos",
+        "atribution": ""
       },
       {
-        "lat": 43.308321,
-        "lng": -1.977503,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/amara-deusto.jpg",
+        "lat": 45.442222,
+        "lng": 12.326389,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/gran_canal_venecia.jpeg",
         "name": "Gran Canal de Venecia",
-        "info": ""
+        "description": "El Gran Canal es el mayor canal de la ciudad de Venecia, la mayor zona húmeda de este país gracias a los múltiples canales de distinta longitud y anchura que lo riegan, en Italia. Este recorre Venecia trazando una S y le sigue en tamaño e importancia el canal Regio o Cannaregio.",
+        "info": "https://es.wikipedia.org/wiki/Gran_Canal_de_Venecia",
+        "atribution": "Foto: VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
       },
       {
-        "lat": 43.3245953,
-        "lng": -1.9779,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/kursaal.jpg",
+        "lat": 44.126944,
+        "lng": 9.709444,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/cinque_terre.jpeg",
         "name": "Cinque Terre",
-        "info": "https://www.kursaal.eus/es/"
+        "description": "Se denomina Cinque Terre (en español, \"Cinco Tierras\") a una porción de costa formada por cinco pueblos en la provincia de La Spezia, bañada por el mar de Liguria en Liguria (Italia).",
+        "info": "https://es.wikipedia.org/wiki/Cinque_Terre",
+        "atribution": ""
       },
       {
-        "lat": 43.3215846,
-        "lng": -2.0076038,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/peine-de-los-vientos.jpg",
+        "lat": 43.773464,
+        "lng": 11.25653,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/duomo_florencia.jpeg",
         "name": "Duomo de Florencia",
-        "info": "https://www.sansebastianturismoa.eus/es/hacer/que-ver-san-sebastian/el-peine-del-viento"
+        "description": "La basílica catedral metropolitana de Santa Maria del Fiore, o catedral de Santa María de la Flor (en italiano, Cattedrale di Santa Maria del Fiore), es la sede episcopal (en italiano duomo) de la archidiócesis de Florencia, Italia. Es una de las obras maestras del arte gótico y del primer Renacimiento italiano.",
+        "info": "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_del_Fiore",
+        "atribution": "Foto: Bruce Stokes on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
       },
       {
-        "lat": 43.3163723,
-        "lng": -1.9882743,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/laconcha.jpg",
+        "lat": 43.723011,
+        "lng": 10.396633,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/torre_de_pisa.jpeg",
         "name": "Torre de Pisa",
-        "info": "https://es.wikipedia.org/wiki/Playa_de_La_Concha_(San_Sebasti%C3%A1n)"
+        "description": "La torre de Pisa o torre inclinada de Pisa (en italiano: torre pendente di Pisa) es la torre campanario de la catedral de Pisa, situada en la plaza del Duomo de Pisa, en la ciudad del mismo nombre, municipio de la región italiana de la Toscana y capital de la provincia homónima de Italia.",
+        "info": "https://es.wikipedia.org/wiki/Torre_de_Pisa",        
+        "atribution": "Foto: Luis Ascenso on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
       },
       {
-        "lat": 43.323549,
-        "lng": -1.988111,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/puerto.jpg",
+        "lat": 43.467719,
+        "lng": 11.043221,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/gimignano.jpeg",
         "name": "Torres de San Gimignano",
-        "info": ""
+        "description": "San Gimignano es un pequeño pueblo amurallado de origen medieval, erigido en lo alto de las colinas de la Toscana, en Italia. Se localiza a cerca de 35 minutos en coche al noroeste de la ciudad de Siena y cerca de la misma distancia al suroeste de la ciudad de Florencia. Este pueblo es muy famoso principalmente por su arquitectura medieval, especialmente sus torres. El «centro histórico de San Gimignano» fue declarado Patrimonio de la Humanidad por la Unesco en 1990, con número de identificación 550.2​",
+        "info": "https://es.wikipedia.org/wiki/San_Gimignano",
+        "atribution": "Foto: korom on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
       },
       {
-        "lat": 43.308321,
-        "lng": -1.977503,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/amara-deusto.jpg",
+        "lat": 41.890278,
+        "lng": 12.492222,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/coliseo_de_roma.jpeg",
         "name": "Coliseo de Roma",
-        "info": ""
+        "description": "El Coliseo o Anfiteatro Flavio (en latín Colosseum, en italiano Colosseo) es un anfiteatro de la época del Imperio romano, construido en el siglo I. Está ubicado en el este del Foro Romano, y fue el más grande de los que se construyeron en el Imperio romano. Conocido originalmente como Anfiteatro Flavio (Amphitheatrum Flavium) pasa a ser llamado Coliseo (Colosseum) porque a su lado había una gran estatua, el Coloso de Nerón,​ un monumento dedicado al emperador Nerón que posteriormente sufrió transformaciones y llegó a desaparecer.",
+        "info": "https://es.wikipedia.org/wiki/Coliseo",
+        "atribution": "Foto: Javier Vieras on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
       },
       {
-        "lat": 43.3245953,
-        "lng": -1.9779,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/kursaal.jpg",
+        "lat": 41.906389,
+        "lng": 12.454444,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/museos_vaticanos.jpeg",
         "name": "Museos Vaticanos",
-        "info": "https://www.kursaal.eus/es/"
+        "description": "Los Museos Vaticanos (en italiano Musei Vaticani) son las galerías y el conjunto de estancias de valor artístico propiedad de la Iglesia y accesibles al público en la Ciudad del Vaticano.",
+        "info": "https://es.wikipedia.org/wiki/Museos_Vaticanos",
+        "atribution": "Foto: Vvillamon on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
       },
       {
-        "lat": 43.3215846,
-        "lng": -2.0076038,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/peine-de-los-vientos.jpg",
+        "lat": 40.750556,
+        "lng": 14.489722,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/pompeya.jpeg",
         "name": "Pompeya",
-        "info": "https://www.sansebastianturismoa.eus/es/hacer/que-ver-san-sebastian/el-peine-del-viento"
-      },
+        "description": "Pompeya​ fue una antigua ciudad romana situada en la Campania, a orillas del golfo de Nápoles, próxima a la actual Nápoles. Es principalmente conocida por haber sido destruida durante la erupción del Vesubio del año 79.",
+        "info": "https://es.wikipedia.org/wiki/Pompeya",
+        "atribution": "Foto: Carlo Mirante on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"      },
       {
-        "lat": 43.3163723,
-        "lng": -1.9882743,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/laconcha.jpg",
+        "lat": 40.555556,
+        "lng": 14.240278,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/capri.jpeg",
         "name": "Capri",
-        "info": "https://es.wikipedia.org/wiki/Playa_de_La_Concha_(San_Sebasti%C3%A1n)"
+        "description": "Capri es un municipio italiano localizado en la Ciudad metropolitana de Nápoles, región de Campania. Cuenta con 7.205 habitantes​ en 3,97 km². Es el principal municipio de la isla homónima.",
+        "info": "https://es.wikipedia.org/wiki/Capri",
+        "atribution": "Foto: Anvi on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>" 
       },
       {
-        "lat": 43.323549,
-        "lng": -1.988111,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/puerto.jpg",
+        "lat": 37.750835,
+        "lng": 14.99322,
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/volcan_etna.jpeg",
         "name": "Volcán Etna",
-        "info": ""
+        "info": "https://es.wikipedia.org/wiki/Etna",
+        "description": "El Etna es un volcán activo en la costa este de Sicilia, en el territorio de la Ciudad metropolitana de Catania, Italia. Tiene alrededor de 3357 metros de altura, aunque esta varía debido a las constantes erupciones. Es el volcán activo con mayor altura de la placa Euroasiática, el primero en referencia a la Europa geográfica y la montaña más alta de Italia al sur de los Alpes. El Etna cubre un área de 1190 km², con una circunferencia basal de 140 kilómetros.",
+        "atribution": "Foto: Dean Hochman on VisualHunt / <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\"> CC BY-SA</a>"
       }
     ]
   }
