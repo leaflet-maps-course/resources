@@ -10,7 +10,7 @@
       {
         "lat": 46, 
         "lng": 9.266667,
-        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/lago-como.jpeg",
+        "img": "https://raw.githubusercontent.com/leaflet-maps-course/resources/main/practice-projects-material/section-2-ui-maps/01-markers-popup-tooltips/img/italia/lago_como.jpeg",
         "name": "Lago Como",
         "description": "El tercer lago más grande de Italia es, indudablemente, el más emblemático. Localizado en la región de Lombardía, está rodeado de poblaciones de las que quizás no hayas oído hablar nunca, como Bellagio, Tremezzo o Varenna, pero en cuanto las pises, sentirás amor a primera vista.",
         "info": "https://es.wikipedia.org/wiki/Lago_de_Como",
